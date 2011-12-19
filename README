@@ -1,0 +1,7 @@
+A collection of simple Windows batch scripts to start, stop and check the status of the Symantec Antivirus service.
+
+I wrote these due to the Symantec AV Rtvscan.exe process using an extraordinary (150mb+) amount of ram, which seemed to be fixed by stopping and starting the service.
+
+Hopefully these will be useful for others (or better yet IMO, switch to something better than Symantec AV)
+
+- alias
